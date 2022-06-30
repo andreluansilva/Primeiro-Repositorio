@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(255, 255, 255, 0.911);
+    font-family: Verdana, arial;
+    max-width: 900px;
+    margin: auto;
+}
+
+.logo{
+    margin-left: 300px;
+    margin-top: 5px;
+}
+
+
+.titulo{
+   font-size: 20px;
+   font-family: verdana;
+   text-align: center;
+}
+
+.lista{
+    font-size: 20px;
+    font-family: verdana;
+    text-align: center;
+    
+}
+
+.rodape{
+    font-size: 15px;
+    font-family: verdana;
+    text-align: center;
+ }
+
+ li{
+    list-style: none;
+ }
